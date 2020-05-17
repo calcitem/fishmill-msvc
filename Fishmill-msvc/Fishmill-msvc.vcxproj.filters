@@ -78,6 +78,9 @@
     <ClCompile Include="..\..\Fishmill\src\syzygy\tbprobe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\fishmill-test\test.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Fishmill\src\syzygy\tbprobe.h">
