@@ -151,7 +151,6 @@
     <ClCompile Include="..\..\Stockfish\src\misc.cpp" />
     <ClCompile Include="..\..\Stockfish\src\movegen.cpp" />
     <ClCompile Include="..\..\Stockfish\src\movepick.cpp" />
-    <ClCompile Include="..\..\Stockfish\src\pawns.cpp" />
     <ClCompile Include="..\..\Stockfish\src\position.cpp" />
     <ClCompile Include="..\..\Stockfish\src\psqt.cpp" />
     <ClCompile Include="..\..\Stockfish\src\search.cpp" />
@@ -171,7 +170,6 @@
     <ClInclude Include="..\..\Stockfish\src\misc.h" />
     <ClInclude Include="..\..\Stockfish\src\movegen.h" />
     <ClInclude Include="..\..\Stockfish\src\movepick.h" />
-    <ClInclude Include="..\..\Stockfish\src\pawns.h" />
     <ClInclude Include="..\..\Stockfish\src\position.h" />
     <ClInclude Include="..\..\Stockfish\src\search.h" />
     <ClInclude Include="..\..\Stockfish\src\syzygy\tbprobe.h" />
