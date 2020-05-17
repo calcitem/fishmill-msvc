@@ -18,117 +18,117 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Stockfish\src\benchmark.cpp">
+    <ClCompile Include="..\..\Fishmill\src\benchmark.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\bitbase.cpp">
+    <ClCompile Include="..\..\Fishmill\src\bitbase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\bitboard.cpp">
+    <ClCompile Include="..\..\Fishmill\src\bitboard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\endgame.cpp">
+    <ClCompile Include="..\..\Fishmill\src\endgame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\evaluate.cpp">
+    <ClCompile Include="..\..\Fishmill\src\evaluate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\main.cpp">
+    <ClCompile Include="..\..\Fishmill\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\material.cpp">
+    <ClCompile Include="..\..\Fishmill\src\material.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\misc.cpp">
+    <ClCompile Include="..\..\Fishmill\src\misc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\movegen.cpp">
+    <ClCompile Include="..\..\Fishmill\src\movegen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\movepick.cpp">
+    <ClCompile Include="..\..\Fishmill\src\movepick.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\position.cpp">
+    <ClCompile Include="..\..\Fishmill\src\position.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\psqt.cpp">
+    <ClCompile Include="..\..\Fishmill\src\psqt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\search.cpp">
+    <ClCompile Include="..\..\Fishmill\src\search.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\thread.cpp">
+    <ClCompile Include="..\..\Fishmill\src\thread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\timeman.cpp">
+    <ClCompile Include="..\..\Fishmill\src\timeman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\tt.cpp">
+    <ClCompile Include="..\..\Fishmill\src\tt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\tune.cpp">
+    <ClCompile Include="..\..\Fishmill\src\tune.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\uci.cpp">
+    <ClCompile Include="..\..\Fishmill\src\uci.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\ucioption.cpp">
+    <ClCompile Include="..\..\Fishmill\src\ucioption.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Stockfish\src\syzygy\tbprobe.cpp">
+    <ClCompile Include="..\..\Fishmill\src\syzygy\tbprobe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Stockfish\src\syzygy\tbprobe.h">
+    <ClInclude Include="..\..\Fishmill\src\syzygy\tbprobe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\bitboard.h">
+    <ClInclude Include="..\..\Fishmill\src\bitboard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\endgame.h">
+    <ClInclude Include="..\..\Fishmill\src\endgame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\evaluate.h">
+    <ClInclude Include="..\..\Fishmill\src\evaluate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\material.h">
+    <ClInclude Include="..\..\Fishmill\src\material.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\misc.h">
+    <ClInclude Include="..\..\Fishmill\src\misc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\movegen.h">
+    <ClInclude Include="..\..\Fishmill\src\movegen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\movepick.h">
+    <ClInclude Include="..\..\Fishmill\src\movepick.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\position.h">
+    <ClInclude Include="..\..\Fishmill\src\position.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\search.h">
+    <ClInclude Include="..\..\Fishmill\src\search.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\thread.h">
+    <ClInclude Include="..\..\Fishmill\src\thread.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\thread_win32_osx.h">
+    <ClInclude Include="..\..\Fishmill\src\thread_win32_osx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\timeman.h">
+    <ClInclude Include="..\..\Fishmill\src\timeman.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\tt.h">
+    <ClInclude Include="..\..\Fishmill\src\tt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\tune.h">
+    <ClInclude Include="..\..\Fishmill\src\tune.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\types.h">
+    <ClInclude Include="..\..\Fishmill\src\types.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Stockfish\src\uci.h">
+    <ClInclude Include="..\..\Fishmill\src\uci.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
